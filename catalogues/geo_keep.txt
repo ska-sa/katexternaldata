@@ -1,0 +1,9 @@
+# Strong L-band transmitters
+AFRISTAR
+ARTEMIS
+INMARSAT 3-F2
+# Satellites used for X-band (12 GHz) holography
+EUTELSAT W2M
+EUTELSAT W4
+EUTELSAT W7
+INTELSAT 12 (IS-12)
