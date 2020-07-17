@@ -24,7 +24,7 @@ However, the full files could be loaded manually.
 latest details.  As a convenience, the URLs (possibly outdated) are repeated here:
 
 ### Earth orientation parameters
- - [IERS daily EOP](ftp://ftp.iers.org/products/eop/rapid/daily/finals.daily)
+ - IERS daily EOP: ftp://ftp.iers.org/products/eop/rapid/daily/finals.daily
  
 ### Medium to high orbit satellites (TLEs)
  - [beidou.txt](http://celestrak.com/NORAD/elements/beidou.txt)
