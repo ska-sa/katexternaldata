@@ -25,7 +25,9 @@ latest details.  As a convenience, the URLs (possibly outdated) are repeated her
 
 ### Earth orientation parameters
  - IERS daily EOP: ftp://ftp.iers.org/products/eop/rapid/daily/finals.daily
- 
+ - IERS daily EOP (2000A calculation method): ftp://ftp.iers.org/products/eop/rapid/daily/finals2000A.daily
+ - IERS leap second data: https://hpiers.obspm.fr/iers/bul/bulc/Leap_Second.dat
+
 ### Medium to high orbit satellites (TLEs)
  - [beidou.txt](http://celestrak.com/NORAD/elements/beidou.txt)
  - [galileo.txt](http://celestrak.com/NORAD/elements/galileo.txt)
