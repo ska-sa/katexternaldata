@@ -1,10 +1,7 @@
-# Strong L-band transmitters
-ARTEMIS
-INMARSAT 3-F2
+# Satellites with beacons that may be used for L-band holography
 INMARSAT 4-F2
-INMARSAT 3-F5
-ALPHASAT
-# Satellites used for X-band (12 GHz) holography
+EWS-G1 (GOES 13)
+# Satellites with beacons used for X-band (12 GHz) holography
 EUTELSAT W2M
 EUTELSAT W4
 EUTELSAT W7
@@ -12,5 +9,5 @@ EUTELSAT 16A
 EUTELSAT 36B
 APSTAR 7
 BADR-7 (ARABSAT-6B)
-# Satellites used for S-band
+# Satellites with beacons used for S-band
 SKYNET 5B
