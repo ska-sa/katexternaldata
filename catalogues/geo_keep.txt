@@ -1,13 +1,22 @@
 # Satellites with beacons that may be used for L-band holography
 INMARSAT 4-F2
 EWS-G1 (GOES 13)
+
 # Satellites with beacons used for X-band (12 GHz) holography
-EUTELSAT W2M
-EUTELSAT W4
-EUTELSAT W7
 EUTELSAT 16A
-EUTELSAT 36B
-APSTAR 7
+EUTELSAT 36D
+APSTAR-7
+YAMAL 402
 BADR-7 (ARABSAT-6B)
-# Satellites with beacons used for S-band
+
+# Satellites with beacons used for S-band holography
 SKYNET 5B
+SKYNET 4E
+ANGOSAT 2
+COSMOS 2533
+COSMOS 2539
+H2SAT (HEINRICH HERTZ)
+METEOSAT-11 (MSG-4)
+METEOSAT-10 (MSG-3)
+METEOSAT-12 (MTG-I1)
+EXPRESS-AM44
