@@ -10,7 +10,7 @@ YAMAL 402
 BADR-7 (ARABSAT-6B)
 
 # Satellites with beacons used for S-band holography
-SKYNET 5B
+SKYNET 4C
 SKYNET 4E
 ANGOSAT 2
 COSMOS 2533
