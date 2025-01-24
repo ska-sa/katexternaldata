@@ -3,11 +3,13 @@ INMARSAT 4-F2
 EWS-G1 (GOES 13)
 
 # Satellites with beacons used for X-band (12 GHz) holography
-EUTELSAT 16A
 EUTELSAT 36D
+EUTELSAT 21B
+EUTELSAT 10B
+EUTELSAT 9B
 APSTAR-7
 YAMAL 402
-BADR-7 (ARABSAT-6B)
+THOR 7
 
 # Satellites with beacons used for S-band holography
 SKYNET 4C
