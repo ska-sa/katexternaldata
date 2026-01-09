@@ -11,6 +11,7 @@ EUTELSAT 8 WEST B
 APSTAR-7
 YAMAL 402
 THOR 7
+AMOS-3
 
 # Satellites with beacons used for S-band holography
 SKYNET 4C
