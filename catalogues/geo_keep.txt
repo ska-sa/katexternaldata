@@ -1,6 +1,5 @@
 # Satellites with beacons that may be used for L-band holography
-INMARSAT 4-F2
-EWS-G1 (GOES 13)
+ALPHASAT
 
 # Satellites with beacons used for X-band (12 GHz) holography
 EUTELSAT 36D
